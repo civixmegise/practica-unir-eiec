@@ -1,5 +1,6 @@
 # Usa una imagen base de Node.js, preferiblemente una versión LTS (Long Term Support).
 #prueba de de merge
+# vamos a hacer un merge desde otra cuenta
 FROM node:18-alpine
 
 # Define el directorio de trabajo dentro del contenedor.
